@@ -1,6 +1,8 @@
 # Sales-Data-ETL-pipeline
 Overview
-This project is an end-to-end ETL (Extract, Transform, Load) pipeline for e-commerce sales data. The pipeline processes raw sales data, performs transformations to clean and prepare it, and loads the data into a SQLite database. Additionally, it generates visualizations to analyze sales trends.
+This project is an end-to-end ETL (Extract, Transform, Load) pipeline for e-commerce sales data.
+The pipeline processes raw sales data, performs transformations to clean and prepare it, and loads the data into a SQLite database.
+Additionally, it generates visualizations to analyze sales trends.
 
 # Project Features
 Data Ingestion: Extracts sales data from CSV files.
